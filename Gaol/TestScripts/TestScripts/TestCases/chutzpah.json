@@ -1,0 +1,35 @@
+﻿{
+    "Framework": "jasmine",
+
+    "CodeCoverageIncludes": [
+        "*\\*Sage.CA.SBS.ERP.Sage300.OE.OrderEntryBehaviour.js"
+    ],
+
+    "TestFileTimeout": 600000,
+
+    "References": [
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Scripts/jquery-1.11.3.js" },
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Scripts/jquery.validate.js" },
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Scripts/jquery-ui-1.11.4.min.js" },
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Scripts/AjaxQ/ajaxq.js" },
+
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Scripts/Kendo/kendo.all.min.js" },
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Areas/Shared/Scripts/Sage.CA.SBS.ERP.Sage300.Common.KendoHelpers.js" },
+
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Areas/Shared/Scripts/Sage.CA.SBS.ERP.Sage300.Common.Controls.js" },
+        
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Scripts/knockout/knockout-2.1.0.js" },
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Scripts/knockout/knockout.mapping-latest.debug.js" },
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Scripts/knockout/Sage.CA.SBS.Sage300.Custom.BindingHandlers.js" },
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Scripts/knockout/Sage.CA.SBS.Sage300.Custom.KnockoutExtension.js" },
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Areas/Shared/Scripts/Sage.CA.SBS.ERP.Sage300.Common.Cache.js" },
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Scripts/TestUtil/GlobalTestUtils.js" },
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Areas/Shared/Scripts/Sage.CA.SBS.ERP.Sage300.Common.Global.js" },
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Areas/Core/Scripts/ExportImport/Sage.CA.SBS.ERP.Sage300.Common.Plugin.Export.js" },
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Areas/Core/Scripts/ExportImport/Sage.CA.SBS.ERP.Sage300.Common.Plugin.Import.js" },
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Areas/Core/Scripts/Sage.CA.SBS.ERP.Sage300.Common.Plugin.Finder.js" },
+        { "Path": "../../../../Columbus-Web/Sage.CA.SBS.ERP.Sage300.Web/Areas/Core/Scripts/Process/Sage.CA.SBS.Sage300.Common.Process.js" }
+        
+        
+    ]
+}
